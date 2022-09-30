@@ -16,6 +16,10 @@ The first part of this project is compiling statistics and turning them into coo
 
 Faker is almost unanimously recognized as the greatest of all time (GOAT). His match history was the first one which I tried to compile.
 
+https://www.kaggle.com/code/kagglebenb/faker-stats
+
+https://www.kaggle.com/datasets/kagglebenb/fakerlolesportsdata
+
 ## Jankos
 
 Jankos is one of the greatest of all time. He has many great games and his funny personality makes him an interesting media figure. Also, he also has an extensive match history, which, I'll be honest, contributed to my choosing his stats to compile and visualize.
