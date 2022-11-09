@@ -35,3 +35,12 @@ Sometimes, we don't even have to look at a game to know who won. (Unless it's G2
 ## Predicting Game Outcome Based On Players AND Draft
 
 Draft is fun, right? But does it actually matter?
+
+
+
+
+# Updates
+
+## 11/08/2022
+
+The Lol Fandom website changed some of their formatting, which meant I had to change some of the code to scrape data from their website. Overall, the changes to the code weren't very large or meaningful, and they mainly consisted of finding where the new HTML elements were on the webpage.
