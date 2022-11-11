@@ -41,6 +41,10 @@ Draft is fun, right? But does it actually matter?
 
 # Updates
 
+## 11/10/2022
+
+Added Worlds 2022 Statistics for Faker. (Also I was really hoping he would get his 4th ring but alas.)
+
 ## 11/08/2022
 
 The Lol Fandom website changed some of their formatting, which meant I had to change some of the code to scrape data from their website. Overall, the changes to the code weren't very large or meaningful, and they mainly consisted of finding where the new HTML elements were on the webpage.
